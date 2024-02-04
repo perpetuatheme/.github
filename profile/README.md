@@ -7,7 +7,7 @@
     <h2 align="center">Perpetua Theme</h2>
 </p>
 
-<p align="center">Lightness–calibrated, unique natural hues for the tireless artisan</p>
+<p align="center">Lightness-calibrated, unique natural hues for the tireless artisan</p>
 
 <p align="center">
     <picture>
